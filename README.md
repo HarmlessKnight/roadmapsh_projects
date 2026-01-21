@@ -15,6 +15,11 @@ Each project is contained in its own folder with a dedicated README describing t
 - Project page: [Task Tracker](https://roadmap.sh/projects/task-tracker)
 - Folder: `task-cli_project`
 
+### 3. Weather API
+- Simple weather API wrapper service that provides weather data for a given location.
+- Project page: [Weather API](https://roadmap.sh/projects/weather-api-wrapper-service)
+- Folder: `Weather_API_Project`
+
 *More projects will be added as I continue following the roadmap.sh paths.*
 
 ## Notes
