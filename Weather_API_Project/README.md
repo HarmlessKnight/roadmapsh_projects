@@ -4,7 +4,7 @@ This is a simple weather API wrapper service that provides weather data for a gi
 
 ## Project Page URL
 
-[https://github.com/HarmlessKnight/roadmapsh_projects](https://github.com/HarmlessKnight/roadmapsh_projects)
+[Weather API](https://roadmap.sh/projects/weather-api-wrapper-service)
 
 
 ## Getting Started
